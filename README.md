@@ -33,7 +33,7 @@ Podobno najtrudniej jest zacząć. Mnie takie zaczynanie zajęło szesnaście la
 
 ## 🧗🏻‍♂️ Dokumentacja testowa
 
-1. Testowanie w oparciu o kryteria akceptacji
+1. [Testowanie w oparciu o kryteria akceptacji](https://github.com/cavadrac/Portfolio/blob/main/Testowanie%20-%20kryteria%20akceptacji.md)
 1. Testowanie eksploracyjne
 
 <footer>
