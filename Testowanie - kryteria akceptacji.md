@@ -14,7 +14,7 @@ Wykonane w ramach kursu Tester Manualny przez DobreKursy.it w oparciu o kryteria
 
 ## Przygototowanie przypadków testowych
 
-👉 [Link do akrkuszy Google z przypadkami testowymi](https://docs.google.com/spreadsheets/d/1hZ89VBRjjuuRTHpjKIMGedfk4Y3mB1XlEDD6fGDvvlI/edit?usp=sharing)
+👉 [Link do arkuszy Google z przypadkami testowymi](https://docs.google.com/spreadsheets/d/1hZ89VBRjjuuRTHpjKIMGedfk4Y3mB1XlEDD6fGDvvlI/edit?usp=sharing)
 
 ## Wykryte błędy
 
