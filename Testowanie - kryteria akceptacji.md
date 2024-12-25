@@ -24,3 +24,6 @@ SL-57 Zalogowany użytkownik standard_user może rozpocząć proces checkoutu be
 
 ![SL-57](https://github.com/user-attachments/assets/23abd9f8-1c5a-41e5-b3f7-2170255a7bf3)
 
+SL-70 Użytkownik visual_user natrafia na problem podczas procesu checkoutu
+
+![SL-70](https://github.com/user-attachments/assets/add5cace-ab7e-47cf-8566-8051036ba995)
